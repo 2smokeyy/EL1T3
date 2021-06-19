@@ -1,0 +1,14 @@
+C:\Users\Vichy\Desktop\EL1T3\Injector\Injector\obj\Debug\Injector.csprojAssemblyReference.cache
+C:\Users\Vichy\Desktop\EL1T3\Injector\Injector\obj\Debug\Injector.csproj.CoreCompileInputs.cache
+C:\Users\Vichy\Desktop\EL1T3\Injector\Injector\bin\Debug\Generator.exe.config
+C:\Users\Vichy\Desktop\EL1T3\Injector\Injector\bin\Debug\Generator.exe
+C:\Users\Vichy\Desktop\EL1T3\Injector\Injector\bin\Debug\Generator.pdb
+C:\Users\Vichy\Desktop\EL1T3\Injector\Injector\obj\Debug\Generator.exe
+C:\Users\Vichy\Desktop\EL1T3\Injector\Injector\obj\Debug\Generator.pdb
+C:\Users\vichy\Desktop\EL1T3_FINAL\Injector\Injector\bin\Debug\Generator.exe.config
+C:\Users\vichy\Desktop\EL1T3_FINAL\Injector\Injector\bin\Debug\Generator.exe
+C:\Users\vichy\Desktop\EL1T3_FINAL\Injector\Injector\bin\Debug\Generator.pdb
+C:\Users\vichy\Desktop\EL1T3_FINAL\Injector\Injector\obj\Debug\Injector.csproj.AssemblyReference.cache
+C:\Users\vichy\Desktop\EL1T3_FINAL\Injector\Injector\obj\Debug\Injector.csproj.CoreCompileInputs.cache
+C:\Users\vichy\Desktop\EL1T3_FINAL\Injector\Injector\obj\Debug\Generator.exe
+C:\Users\vichy\Desktop\EL1T3_FINAL\Injector\Injector\obj\Debug\Generator.pdb
